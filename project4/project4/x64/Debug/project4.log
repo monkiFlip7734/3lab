@@ -1,0 +1,5 @@
+﻿  project4.cpp
+C:\Users\Gleb\source\repos\project4\project4\project4.cpp(25,19): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\Gleb\source\repos\project4\project4\project4.cpp(39,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Gleb\source\repos\project4\project4\project4.cpp(92,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  project4.vcxproj -> C:\Users\Gleb\source\repos\project4\x64\Debug\project4.exe
